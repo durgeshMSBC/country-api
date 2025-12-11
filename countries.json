@@ -1,4 +1,24 @@
 [
   { "label": "India", "value": "1" },
-  { "label": "Uk", "value": "2" }
+  { "label": "Uk", "value": "2" },
+  { "label": "United States", "value": "3" },
+  { "label": "Canada", "value": "4" },
+  { "label": "Australia", "value": "5" },
+  { "label": "Germany", "value": "6" },
+  { "label": "France", "value": "7" },
+  { "label": "Italy", "value": "8" },
+  { "label": "Spain", "value": "9" },
+  { "label": "Brazil", "value": "10" },
+  { "label": "Mexico", "value": "11" },
+  { "label": "China", "value": "12" },
+  { "label": "Japan", "value": "13" },
+  { "label": "South Korea", "value": "14" },
+  { "label": "Russia", "value": "15" },
+  { "label": "South Africa", "value": "16" },
+  { "label": "Argentina", "value": "17" },
+  { "label": "Netherlands", "value": "18" },
+  { "label": "Sweden", "value": "19" },
+  { "label": "Norway", "value": "20" },
+  { "label": "Switzerland", "value": "21" },
+  { "label": "New Zealand", "value": "22" }
 ]
