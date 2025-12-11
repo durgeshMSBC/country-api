@@ -1,0 +1,12 @@
+[
+  { "label": "Mumbai", "value": "1" },
+  { "label": "Delhi", "value": "2" },
+  { "label": "Bengaluru", "value": "3" },
+  { "label": "Chennai", "value": "4" },
+  { "label": "Kolkata", "value": "5" },
+  { "label": "Hyderabad", "value": "6" },
+  { "label": "Pune", "value": "7" },
+  { "label": "Ahmedabad", "value": "8" },
+  { "label": "Jaipur", "value": "9" },
+  { "label": "Chandigarh", "value": "10" }
+]
