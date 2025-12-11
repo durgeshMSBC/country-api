@@ -1,0 +1,12 @@
+[
+  { "label": "Maharashtra", "value": "1" },
+  { "label": "Gujarat", "value": "2" },
+  { "label": "Rajasthan", "value": "3" },
+  { "label": "Karnataka", "value": "4" },
+  { "label": "Tamil Nadu", "value": "5" },
+  { "label": "Uttar Pradesh", "value": "6" },
+  { "label": "Madhya Pradesh", "value": "7" },
+  { "label": "Punjab", "value": "8" },
+  { "label": "Haryana", "value": "9" },
+  { "label": "West Bengal", "value": "10" }
+]
